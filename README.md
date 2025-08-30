@@ -1,0 +1,2 @@
+# gnome-beautification-experience
+记录了自己在arch操作系统中美化gnome桌面的经历
